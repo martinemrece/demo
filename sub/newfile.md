@@ -1,6 +1,6 @@
-##nwe file 
+## nwe file 
 
 
-##jhk
+## jhk
 
-*kjgk
+* kjgk
