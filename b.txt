@@ -1,3 +1,5 @@
 This is  file b
 
 test the stash command
+
+a new text to test alpha tag
